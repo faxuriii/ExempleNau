@@ -8,4 +8,7 @@ public class ValorsGlobals
 
     public static float LimitSuperiorY = 6f;
     public static float LimitInferiorY = -4f;
+
+    public static float LimitZNegaitu = -10f;
+    public static float LimitZPositiu = 100f; 
 }
